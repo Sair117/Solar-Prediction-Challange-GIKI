@@ -11,6 +11,9 @@ The work includes data preprocessing, feature engineering, and model experimenta
 ├── requirements.txt          <- Python dependencies
 
 
+
+NOTE: DATASET WAS NOT UPLOADED SINCE IT IS PRIVATE PROPERTY OF SKYELECTRIC, PLEASE MAKE SURE TO UPLOAD THE FILES TO YOUR COLAB/JUPYTER TO ENSURE THE NOTEBOOK RUNS
+
 ⚙️ Installation (Local Machine)
 Clone the repository:
 git clone https://github.com/Sair117/Solar-Prediction-Challange-GIKI.git
