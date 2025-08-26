@@ -13,7 +13,7 @@ The work includes data preprocessing, feature engineering, and model experimenta
 
 ⚙️ Installation (Local Machine)
 Clone the repository:
-git clone https://github.com/your-username/solar-forecasting.git
+git clone https://github.com/Sair117/Solar-Prediction-Challange-GIKI.git
 cd solar-forecasting
 Install dependencies: pip install -r requirements.txt
 Launch Jupyter Notebook: jupyter notebook
