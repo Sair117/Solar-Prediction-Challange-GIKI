@@ -9,17 +9,16 @@ The work includes data preprocessing, feature engineering, and model experimenta
 ├── Solar_Prediction_Final.ipynb   <- Main notebook with code, analysis, and results
 ├── report.pdf                <- Final project report (methods, results, discussion)
 ├── requirements.txt          <- Python dependencies
-└──
+
+
 ⚙️ Installation (Local Machine)
-
 Clone the repository:
-
 git clone https://github.com/your-username/solar-forecasting.git
 cd solar-forecasting
-
 Install dependencies: pip install -r requirements.txt
 Launch Jupyter Notebook: jupyter notebook
 Open Solar_Prediction_Final.ipynb and run all cells.
+
 
 ▶️ Running on Google Colab (Recommended)
 
@@ -37,11 +36,8 @@ Open Solar_Forecasting.ipynb and run all cells.
 The dataset consists of:
 
 train_data.csv
-
 test_data_masked.csv
-
 systems_new.csv
-
 sample_submission.csv
 
 Due to size limits, only sample files may be included in /data.
@@ -61,7 +57,5 @@ Final best: LightGBM with tuned parameters → MAE = 1282
 👤 Author
 
 Ahmad Adeel Sair
-
 Email: ahmadsair2005@gmail.com
-
 GitHub: Sair117
